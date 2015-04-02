@@ -10,5 +10,8 @@ I remain connected to my former peers and up to date on the latest research.
 Education: I received my BA in Sociology from Stony Brook University in 2012, then attended the CUNY Graduate
 Center as a phd. candidate before withdrawing from that program to study computer science here at 
 Oregon State University.  
-  
+
+Secret ambition: To see the NY Jets win the Super Bowl!
+
 Programming Background:
+
