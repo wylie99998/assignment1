@@ -25,3 +25,5 @@ that kept track of various library items and patrons.  It was fun and engaging t
 had such an obvious use, and was complex in its operation behind the scenes, ie using pointers to transverse 
 lists and keep track of things like fines for individual patrons.        
 >>>>>>> programming-bio
+
+Favorite books: 1984, Das Capital, Brave New World, 2001, Harry Potter 
