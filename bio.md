@@ -12,4 +12,8 @@ where I was the lead programmer of the school's robotics team, which made me fam
 I found that introduction to programming and engineering in general to be an incredible experience 
 and that was my original major when I went to college.  Despite focusing on sociology I continued 
 to learn more about programming in various languages and followed developments in that field. 
-As a graduate student I became familiar with R and a bit of python used by my professor's in their research.     
+As a graduate student I became familiar with R and a bit of python used by my professor's in their research.
+Last semester in CS 165 my favourite program was our final project, where we created a Library database 
+that kept track of various library items and patrons.  It was fun and engaging to create a program that 
+had such an obvious use, and was complex in its operation behind the scenes, ie using pointers to transverse 
+lists and keep track of things like fines for individual patrons.        
